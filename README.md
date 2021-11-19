@@ -34,4 +34,4 @@ The below image is the filter selection provide to the user:
 
 ## Summary
 The user is provided a user friendly, interactive map to view all of the earthquake events around the globe over the past 7 days.  Viewing the map, it is easy to determine that the majority of all earthquake events happen along tectonic fault lines.  There are a few earthquake events a good distance away from fault lines, but did not register very high on the magnitude scale.
-https://jwolfe27.github.io/Mapping_Earthquakes_Challenge/
+
